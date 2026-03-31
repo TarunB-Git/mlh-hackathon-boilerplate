@@ -29,7 +29,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
+  title:       "Code Fest | 28 April 2026"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -38,12 +38,12 @@ event:
   name:        "Example Hacks"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  location:    "BTH, Karlskrona, Sweden"
 
   trust_badge:
-    year:   "2017"  # season year
+    year:   "2026"  # season year
     region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    color:  "blue" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
@@ -56,7 +56,7 @@ event:
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
+      Code Fest is a hackathon hosted at Blekinge Tekniska Högskola.
       This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
       Keep it straightforward, don't make it too long.
 
@@ -87,11 +87,11 @@ event:
         Nothing. Attending a hackathon is free.
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
+        Yes (But faculty and staff at BTH may also attend). Students who are currently enrolled at BTH, or who
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The event is being hosted at Datorsal, BTH.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
